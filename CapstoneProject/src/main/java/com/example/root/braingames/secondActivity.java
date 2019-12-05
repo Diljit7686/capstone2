@@ -334,7 +334,7 @@ TurnBasedMatch match = task.getResult();
 }
 }
 });
- }
+ } 
  **/
 
     }
