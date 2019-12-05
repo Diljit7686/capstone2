@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CapstoneProject/CapstoneProject.iml" filepath="$PROJECT_DIR$/CapstoneProject/CapstoneProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CapstoneProject/app.iml" filepath="$PROJECT_DIR$/CapstoneProject/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brainGames-master.iml" filepath="$PROJECT_DIR$/brainGames-master.iml" />
+    </modules>
+  </component>
+</project>
